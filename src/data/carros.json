@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "marca": "Honda",
+    "modelo": "Civic",
+    "ano": 2022,
+    "cor": "Prata",
+    "status": "disponível"
+  },
+  {
+    "id": "2",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "ano": 2021,
+    "cor": "Preto",
+    "status": "disponível"
+  },
+  {
+    "id": "3",
+    "marca": "Volkswagen",
+    "modelo": "Gol",
+    "ano": 2020,
+    "cor": "Branco",
+    "status": "disponível"
+  }
+]
